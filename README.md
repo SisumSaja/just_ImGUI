@@ -4,7 +4,7 @@ This just few template for ImGui that i created?
 
 ### in case you saw wierd style of mine im sorry that maybe i dont follow code standard 🙏
 m_ = member valiable <br>
-k_ = constexpr (usuallu im using constexpr rathe const) <br>
+k_ = constexpr (usually im using constexpr rathe const) <br>
 b_ = boolean <br>
 
 for parameter using za snakecase <br>
