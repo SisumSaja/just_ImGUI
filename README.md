@@ -9,4 +9,10 @@ b_ = boolean <br>
 
 for Parameter function, im using za snakecase <br> <br>
 also im using pch.h to include everything that neccessary, precompile, you know maybe usefull and make it faster somehow <br>
-for my purpose i changed every int with std::int32_t <br>
+for my purpose i changed every int with <br>
+<br>
+std::int64_t <br>
+std::int32_t <br>
+std::int16_t <br>
+<br>
+i might mix some ASM for fun 
